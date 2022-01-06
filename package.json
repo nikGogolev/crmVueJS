@@ -31,5 +31,17 @@
     "node-sass": "^4.12.0",
     "prettier": "^2.2.1",
     "sass-loader": "^8.0.2"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikGogolev/crmVueJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikGogolev/crmVueJS/issues"
+  },
+  "homepage": "https://github.com/nikGogolev/crmVueJS#readme"
 }
